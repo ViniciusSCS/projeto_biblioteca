@@ -1,3 +1,6 @@
 [submodule "ms-biblioteca-post"]
 	path = ms-biblioteca-post
 	url = git@github.com:ViniciusSCS/ms-biblioteca-post.git
+[submodule "ms-biblioteca-get"]
+	path = ms-biblioteca-get
+	url = git@github.com:ViniciusSCS/ms-biblioteca-get.git
